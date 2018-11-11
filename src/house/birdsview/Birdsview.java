@@ -28,6 +28,7 @@ public class Birdsview extends JFrame implements ActionListener
 	public JFrame tempFrame; // for dreyfus pop out  page
 // Main "screens"
 	private AddInventryItem newInventory;
+	private MainPage mainPage;
 	
 //	private JTabbedPane tabbedPane = null; //Check if you want a tabbed pane
 	
@@ -123,8 +124,8 @@ public class Birdsview extends JFrame implements ActionListener
 		
 		
 		// The logon panel goes into the base panel
-//		newInventory = new AddInventryItem(this);
-//		this.add(newInventory);
+		mainPage = new MainPage(this);
+		this.changeBasePanel(mainPage);
 //		client = new Inventry_Client(this);
 //		basePanel.add(client);
 

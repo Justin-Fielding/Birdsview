@@ -23,6 +23,7 @@ import org.apache.log4j.PropertyConfigurator;
 
 import house.beans.InventoryItemBean;
 import house.birdsview.Birdsview;
+import house.birdsview.MainPage;
 
 
 public class AddInventryItem extends JPanel implements ActionListener
@@ -216,6 +217,8 @@ public class AddInventryItem extends JPanel implements ActionListener
 			itemValueJTF.setText("");
 			itemDescriptionTextArea.setText("");
 			attachmentLabel.setText("");
+			MainPage mainPage = new MainPage(basePanel);
+			basePanel.changeBasePanel(mainPage);
 		}
 		
 		if (source == attachmentButton)

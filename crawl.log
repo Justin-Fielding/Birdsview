@@ -386,3 +386,150 @@ ItemAttached: IMG_1352.JPG
 INFO	2018-10-18 08:15:48,729	73259	house.inventry.AddInventryItem	[AWT-EventQueue-0]	AddInventoryItem Class Message - InventoryItemBean [itemName=Hyundai, itemModel=I20 1.4, itemSerialNo=lkasd, itemLocation=Garage, itemValue=85000, itemDescription=My Car, itemAttached=IMG_1352.JPG]
 INFO	2018-10-18 08:16:49,562	134092	house.inventry.AddInventryItem	[AWT-EventQueue-0]	Pressing the cancel button
 INFO	2018-10-18 08:16:52,845	137375	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
+INFO	2018-11-11 11:22:19,166	0	house.dao.DAO	[main]	DAO Class messages - Connected to DB
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Kitchen
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Lounge
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Dining Room
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Garage
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Downstairs Bathroom
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Main Bedroom
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Spare Bedroom
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Hayley Bedroom
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Main Bathroom
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Spare Bathroom
+INFO	2018-11-11 11:22:19,204	38	house.dao.DAO	[main]	DAO Class messages - Garden
+INFO	2018-11-11 11:24:25,119	125953	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Add Inventry Menu Item selected
+INFO	2018-11-11 11:24:25,368	126202	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Setting up South Panel
+INFO	2018-11-11 11:26:49,886	270720	house.inventry.AddInventryItem	[AWT-EventQueue-0]	Pressing the cancel button
+INFO	2018-11-11 11:26:54,013	274847	house.inventry.AddInventryItem	[AWT-EventQueue-0]	Pressing the cancel button
+INFO	2018-11-11 11:27:06,852	287686	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
+INFO	2018-11-11 13:06:22,931	0	house.dao.DAO	[main]	DAO Class messages - Connected to DB
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Kitchen
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Lounge
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Dining Room
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Garage
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Downstairs Bathroom
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Main Bedroom
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Spare Bedroom
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Hayley Bedroom
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Main Bathroom
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Spare Bathroom
+INFO	2018-11-11 13:06:22,963	32	house.dao.DAO	[main]	DAO Class messages - Garden
+INFO	2018-11-11 13:06:35,934	13003	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
+INFO	2018-11-11 13:07:44,579	0	house.dao.DAO	[main]	DAO Class messages - Connected to DB
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Kitchen
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Lounge
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Dining Room
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Garage
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Downstairs Bathroom
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Main Bedroom
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Spare Bedroom
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Hayley Bedroom
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Main Bathroom
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Spare Bathroom
+INFO	2018-11-11 13:07:44,595	16	house.dao.DAO	[main]	DAO Class messages - Garden
+INFO	2018-11-11 13:08:12,553	27974	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
+INFO	2018-11-11 13:09:35,330	0	house.dao.DAO	[main]	DAO Class messages - Connected to DB
+INFO	2018-11-11 13:09:35,336	6	house.dao.DAO	[main]	DAO Class messages - Kitchen
+INFO	2018-11-11 13:09:35,336	6	house.dao.DAO	[main]	DAO Class messages - Lounge
+INFO	2018-11-11 13:09:35,336	6	house.dao.DAO	[main]	DAO Class messages - Dining Room
+INFO	2018-11-11 13:09:35,336	6	house.dao.DAO	[main]	DAO Class messages - Garage
+INFO	2018-11-11 13:09:35,336	6	house.dao.DAO	[main]	DAO Class messages - Downstairs Bathroom
+INFO	2018-11-11 13:09:35,336	6	house.dao.DAO	[main]	DAO Class messages - Main Bedroom
+INFO	2018-11-11 13:09:35,339	9	house.dao.DAO	[main]	DAO Class messages - Spare Bedroom
+INFO	2018-11-11 13:09:35,339	9	house.dao.DAO	[main]	DAO Class messages - Hayley Bedroom
+INFO	2018-11-11 13:09:35,339	9	house.dao.DAO	[main]	DAO Class messages - Main Bathroom
+INFO	2018-11-11 13:09:35,339	9	house.dao.DAO	[main]	DAO Class messages - Spare Bathroom
+INFO	2018-11-11 13:09:35,339	9	house.dao.DAO	[main]	DAO Class messages - Garden
+INFO	2018-11-11 13:09:35,390	60	house.birdsview.MainPage	[main]	MainPage Class Message - Loading Main Page image
+INFO	2018-11-11 13:09:42,285	6955	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
+INFO	2018-11-11 13:09:53,556	0	house.dao.DAO	[main]	DAO Class messages - Connected to DB
+INFO	2018-11-11 13:09:53,572	16	house.dao.DAO	[main]	DAO Class messages - Kitchen
+INFO	2018-11-11 13:09:53,572	16	house.dao.DAO	[main]	DAO Class messages - Lounge
+INFO	2018-11-11 13:09:53,588	32	house.dao.DAO	[main]	DAO Class messages - Dining Room
+INFO	2018-11-11 13:09:53,588	32	house.dao.DAO	[main]	DAO Class messages - Garage
+INFO	2018-11-11 13:09:53,588	32	house.dao.DAO	[main]	DAO Class messages - Downstairs Bathroom
+INFO	2018-11-11 13:09:53,588	32	house.dao.DAO	[main]	DAO Class messages - Main Bedroom
+INFO	2018-11-11 13:09:53,588	32	house.dao.DAO	[main]	DAO Class messages - Spare Bedroom
+INFO	2018-11-11 13:09:53,588	32	house.dao.DAO	[main]	DAO Class messages - Hayley Bedroom
+INFO	2018-11-11 13:09:53,588	32	house.dao.DAO	[main]	DAO Class messages - Main Bathroom
+INFO	2018-11-11 13:09:53,588	32	house.dao.DAO	[main]	DAO Class messages - Spare Bathroom
+INFO	2018-11-11 13:09:53,588	32	house.dao.DAO	[main]	DAO Class messages - Garden
+INFO	2018-11-11 13:09:53,657	101	house.birdsview.MainPage	[main]	MainPage Class Message - Loading Main Page image
+INFO	2018-11-11 13:10:03,296	9740	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
+INFO	2018-11-11 14:24:14,029	0	house.dao.DAO	[main]	DAO Class messages - Connected to DB
+INFO	2018-11-11 14:24:14,048	19	house.dao.DAO	[main]	DAO Class messages - Kitchen
+INFO	2018-11-11 14:24:14,048	19	house.dao.DAO	[main]	DAO Class messages - Lounge
+INFO	2018-11-11 14:24:14,048	19	house.dao.DAO	[main]	DAO Class messages - Dining Room
+INFO	2018-11-11 14:24:14,048	19	house.dao.DAO	[main]	DAO Class messages - Garage
+INFO	2018-11-11 14:24:14,048	19	house.dao.DAO	[main]	DAO Class messages - Downstairs Bathroom
+INFO	2018-11-11 14:24:14,049	20	house.dao.DAO	[main]	DAO Class messages - Main Bedroom
+INFO	2018-11-11 14:24:14,049	20	house.dao.DAO	[main]	DAO Class messages - Spare Bedroom
+INFO	2018-11-11 14:24:14,049	20	house.dao.DAO	[main]	DAO Class messages - Hayley Bedroom
+INFO	2018-11-11 14:24:14,049	20	house.dao.DAO	[main]	DAO Class messages - Main Bathroom
+INFO	2018-11-11 14:24:14,049	20	house.dao.DAO	[main]	DAO Class messages - Spare Bathroom
+INFO	2018-11-11 14:24:14,049	20	house.dao.DAO	[main]	DAO Class messages - Garden
+INFO	2018-11-11 14:24:14,114	85	house.birdsview.MainPage	[main]	MainPage Class Message - Loading Main Page image
+INFO	2018-11-11 14:24:23,442	9413	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Connected to DB
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Kitchen
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Lounge
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Dining Room
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Garage
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Downstairs Bathroom
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Main Bedroom
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Spare Bedroom
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Hayley Bedroom
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Main Bathroom
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Spare Bathroom
+INFO	2018-11-11 14:26:15,496	0	house.dao.DAO	[main]	DAO Class messages - Garden
+INFO	2018-11-11 14:26:15,528	32	house.birdsview.MainPage	[main]	MainPage Class Message - Loading Main Page image
+INFO	2018-11-11 14:26:33,895	18399	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
+INFO	2018-11-11 14:27:12,281	0	house.dao.DAO	[main]	DAO Class messages - Connected to DB
+INFO	2018-11-11 14:27:12,289	8	house.dao.DAO	[main]	DAO Class messages - Kitchen
+INFO	2018-11-11 14:27:12,289	8	house.dao.DAO	[main]	DAO Class messages - Lounge
+INFO	2018-11-11 14:27:12,289	8	house.dao.DAO	[main]	DAO Class messages - Dining Room
+INFO	2018-11-11 14:27:12,289	8	house.dao.DAO	[main]	DAO Class messages - Garage
+INFO	2018-11-11 14:27:12,289	8	house.dao.DAO	[main]	DAO Class messages - Downstairs Bathroom
+INFO	2018-11-11 14:27:12,290	9	house.dao.DAO	[main]	DAO Class messages - Main Bedroom
+INFO	2018-11-11 14:27:12,290	9	house.dao.DAO	[main]	DAO Class messages - Spare Bedroom
+INFO	2018-11-11 14:27:12,290	9	house.dao.DAO	[main]	DAO Class messages - Hayley Bedroom
+INFO	2018-11-11 14:27:12,290	9	house.dao.DAO	[main]	DAO Class messages - Main Bathroom
+INFO	2018-11-11 14:27:12,290	9	house.dao.DAO	[main]	DAO Class messages - Spare Bathroom
+INFO	2018-11-11 14:27:12,290	9	house.dao.DAO	[main]	DAO Class messages - Garden
+INFO	2018-11-11 14:27:12,306	25	house.birdsview.MainPage	[main]	MainPage Class Message - Loading Main Page image
+INFO	2018-11-11 14:27:26,394	14113	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
+INFO	2018-11-11 14:30:35,600	0	house.dao.DAO	[main]	DAO Class messages - Connected to DB
+INFO	2018-11-11 14:30:35,612	12	house.dao.DAO	[main]	DAO Class messages - Kitchen
+INFO	2018-11-11 14:30:35,612	12	house.dao.DAO	[main]	DAO Class messages - Lounge
+INFO	2018-11-11 14:30:35,613	13	house.dao.DAO	[main]	DAO Class messages - Dining Room
+INFO	2018-11-11 14:30:35,613	13	house.dao.DAO	[main]	DAO Class messages - Garage
+INFO	2018-11-11 14:30:35,613	13	house.dao.DAO	[main]	DAO Class messages - Downstairs Bathroom
+INFO	2018-11-11 14:30:35,613	13	house.dao.DAO	[main]	DAO Class messages - Main Bedroom
+INFO	2018-11-11 14:30:35,614	14	house.dao.DAO	[main]	DAO Class messages - Spare Bedroom
+INFO	2018-11-11 14:30:35,614	14	house.dao.DAO	[main]	DAO Class messages - Hayley Bedroom
+INFO	2018-11-11 14:30:35,614	14	house.dao.DAO	[main]	DAO Class messages - Main Bathroom
+INFO	2018-11-11 14:30:35,615	15	house.dao.DAO	[main]	DAO Class messages - Spare Bathroom
+INFO	2018-11-11 14:30:35,615	15	house.dao.DAO	[main]	DAO Class messages - Garden
+INFO	2018-11-11 14:30:35,671	71	house.birdsview.MainPage	[main]	MainPage Class Message - Loading Main Page image
+INFO	2018-11-11 14:30:51,698	16098	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Add Inventry Menu Item selected
+INFO	2018-11-11 14:30:51,871	16271	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Setting up South Panel
+INFO	2018-11-11 14:30:57,534	21934	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
+INFO	2018-11-11 14:33:52,893	0	house.dao.DAO	[main]	DAO Class messages - Connected to DB
+INFO	2018-11-11 14:33:52,899	6	house.dao.DAO	[main]	DAO Class messages - Kitchen
+INFO	2018-11-11 14:33:52,899	6	house.dao.DAO	[main]	DAO Class messages - Lounge
+INFO	2018-11-11 14:33:52,899	6	house.dao.DAO	[main]	DAO Class messages - Dining Room
+INFO	2018-11-11 14:33:52,899	6	house.dao.DAO	[main]	DAO Class messages - Garage
+INFO	2018-11-11 14:33:52,899	6	house.dao.DAO	[main]	DAO Class messages - Downstairs Bathroom
+INFO	2018-11-11 14:33:52,899	6	house.dao.DAO	[main]	DAO Class messages - Main Bedroom
+INFO	2018-11-11 14:33:52,899	6	house.dao.DAO	[main]	DAO Class messages - Spare Bedroom
+INFO	2018-11-11 14:33:52,900	7	house.dao.DAO	[main]	DAO Class messages - Hayley Bedroom
+INFO	2018-11-11 14:33:52,900	7	house.dao.DAO	[main]	DAO Class messages - Main Bathroom
+INFO	2018-11-11 14:33:52,900	7	house.dao.DAO	[main]	DAO Class messages - Spare Bathroom
+INFO	2018-11-11 14:33:52,900	7	house.dao.DAO	[main]	DAO Class messages - Garden
+INFO	2018-11-11 14:33:52,927	34	house.birdsview.MainPage	[main]	MainPage Class Message - Loading Main Page image
+INFO	2018-11-11 14:33:57,731	4838	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Add Inventry Menu Item selected
+INFO	2018-11-11 14:33:57,903	5010	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Setting up South Panel
+INFO	2018-11-11 14:34:15,687	22794	house.inventry.AddInventryItem	[AWT-EventQueue-0]	Pressing the cancel button
+INFO	2018-11-11 14:34:15,702	22809	house.birdsview.MainPage	[AWT-EventQueue-0]	MainPage Class Message - Loading Main Page image
+INFO	2018-11-11 14:35:01,097	68204	house.birdsview.Birdsview	[AWT-EventQueue-0]	Birdsview Class messages - Quit menu item selected...
